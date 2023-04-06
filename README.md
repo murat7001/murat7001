@@ -13,13 +13,13 @@
 
 # <p align="middle">Socials:</p>
 <p align="middle">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/murat-y%C4%B1ld%C4%B1r%C4%B1m-4210b5205/">
+    <a href="https://www.linkedin.com/in/murat-y%C4%B1ld%C4%B1r%C4%B1m-4210b5205/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
     </a>
     <a href="https://instagram.com/y1drmurat">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://twitter.com/https://twitter.com/y1drmurat">
+    <a href="https://twitter.com/y1drmurat">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
     </a>
 </p>
