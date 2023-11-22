@@ -1,9 +1,3 @@
-<div align="middle">
-    <a href="https://github.com/murat7001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=500&center=true&vCenter=true&width=490&height=60&lines=WELCOME+MY+PAGE;Murat+Y%C4%B1ld%C4%B1r%C4%B1m%E2%9A%A1" alt="Typing SVG" /></a></a></a>
-</div>
-
-<br>
-
 # <p align="middle">About Me:</p>
 🌱 I’m currently learning web development.
 <br>
