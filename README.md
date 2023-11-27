@@ -26,13 +26,9 @@
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=murat7001&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
     </a>
-    <br>
-    <br>
     <a href="#">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=murat7001&theme=radical&hide_border=false" />
     </a>
-    <br>
-    <br>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murat7001&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </a>
@@ -41,11 +37,5 @@
 
 <br>
 
-# <p align="middle">GitHub Trophies:</p>
-<p align="middle">
-    <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=murat7001&theme=radical&no-frame=false&no-bg=true&margin-w=4"></img>
-    </a>
-</p>
 
 ---
