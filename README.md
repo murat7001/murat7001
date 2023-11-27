@@ -7,14 +7,14 @@
 
 # <p align="middle">Socials:</p>
 <p align="middle">
-    <a href="https://www.linkedin.com/in/murat-y%C4%B1ld%C4%B1r%C4%B1m-4210b5205/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/y1drmurat/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
     </a>
     <a href="https://instagram.com/y1drmurat">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
     </a>
     <a href="https://twitter.com/y1drmurat">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
     </a>
 </p>
 
@@ -29,9 +29,10 @@
     <a href="#">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=murat7001&theme=radical&hide_border=false" />
     </a>
+</div>
+<div align="middle">
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murat7001&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-    </a>
     </a>
 </div>
 
